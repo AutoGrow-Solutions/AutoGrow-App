@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_border"> <!-- White background -->
+
+    <!-- Black text -->
+    <TextView
+        android:id="@+id/temperatureReading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text=""
+        android:fontFamily="@font/leaguespartan_regular"
+        android:textColor="@color/white"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/humidityReading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:fontFamily="@font/leaguespartan_regular"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        android:textSize="14sp" /> <!-- Black text -->
+    <TextView
+        android:id="@+id/ecReading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:text=""
+        android:fontFamily="@font/leaguespartan_regular"
+        android:textColor="@color/black"
+        android:textSize="14sp" /> <!-- Black text -->
+    <TextView
+        android:id="@+id/phReading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:text=""
+        android:fontFamily="@font/leaguespartan_regular"
+        android:textColor="@color/black"
+        android:textSize="14sp" /> <!-- Black text -->
+    <TextView
+        android:id="@+id/pumpReading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_marginTop="150dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/leaguespartan_black"
+        android:textSize="14sp" /> <!-- Black text -->
+    <TextView
+        android:id="@+id/lightReading"
+        android:layout_marginTop="180dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:fontFamily="@font/leaguespartan_regular"
+        android:textColor="@color/black"
+        android:textSize="14sp" /> <!-- Black text -->
+
+</RelativeLayout>

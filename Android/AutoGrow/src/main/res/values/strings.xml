@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">AutoGrow</string>
+
+    <string name="Water_Flow">Water</string>
+    <string name="Water_pH">pH</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Humidity">Humidity</string>
+    <string name="EC_Reading">EC</string>
+    <string name="Light">Light</string>
+
+    <string name="Water_Flow_ZU">Amanzi</string>
+    <string name="Water_pH_ZU">Amanzi acwebile</string>
+    <string name="Temperature_ZU">izinga lokushisa</string>
+    <string name="Humidity_ZU">Umswakama</string>
+    <string name="EC_Reading_ZU">Imvundo</string>
+    <string name="Light_ZU">ilanga</string>
+
+    <string name="Water_Flow_AF">Water vloei</string>
+    <string name="Water_pH_AF">Water pH</string>
+    <string name="Temperature_AF">Temperatuur</string>
+    <string name="Humidity_AF">Humiditeit</string>
+    <string name="EC_Reading_AF">Kompos</string>
+    <string name="Light_AF">Lig</string>
+
+
+    <string name="Water_Flow_XH">Amanzi</string>
+    <string name="Water_pH_XH">pH</string>
+    <string name="Temperature_XH">Ubushushu</string>
+    <string name="Humidity_XH">Ubungqina</string>
+    <string name="EC_Reading_XH">i-EC</string>
+    <string name="Light_XH">Ukukhanya</string>
+
+    */Sesotho/*
+    <string name="Water_Flow_ST">Metsi</string>
+    <string name="Water_pH_ST">pH</string>
+    <string name="Temperature_ST">Mocheso</string>
+    <string name="Humidity_ST">Mongobo</string>
+    <string name="EC_Reading_ST">EC</string>
+    <string name="Light_ST">Leseli</string>
+    */Setswana/*
+    <string name="Water_Flow_TN">Metsi</string>
+    <string name="Water_pH_TN">pH</string>
+    <string name="Temperature_TN">Mocheso</string>
+    <string name="Humidity_TN">Mongobo</string>
+    <string name="EC_Reading_TN">EC</string>
+    <string name="Light_TN">Lesedi</string>
+
+    */Siswati/*
+    <string name="Water_Flow_SS">Emanti</string>
+    <string name="Water_pH_SS">pH</string>
+    <string name="Temperature_SS">Kushisa</string>
+    <string name="Humidity_SS">Umoya lomncane</string>
+    <string name="EC_Reading_SS">EC</string>
+    <string name="Light_SS">Kukhanya</string>
+    */Tshivenda/*
+    <string name="Water_Flow_VE">Madi</string>
+    <string name="Water_pH_VE">pH</string>
+    <string name="Temperature_VE">Mutshilo</string>
+    <string name="Humidity_VE">Vhulapfu</string>
+    <string name="EC_Reading_VE">EC</string>
+    <string name="Light_VE">Tshiedza</string>
+
+    */Xitsonga/*
+    <string name="Water_Flow_TS">Mati</string>
+    <string name="Water_pH_TS">pH</string>
+    <string name="Temperature_TS">Mahiselo</string>
+    <string name="Humidity_TS">Moya lowu hetisekeke</string>
+    <string name="EC_Reading_TS">EC</string>
+    <string name="Light_TS">Swi ku vonisa</string>
+
+    */Northern Sotho (Sepedi)/*
+    <string name="Water_Flow_NS">Meetse</string>
+    <string name="Water_pH_NS">pH</string>
+    <string name="Temperature_NS">Mocheso</string>
+    <string name="Humidity_NS">Mongobo</string>
+    <string name="EC_Reading_NS">EC</string>
+    <string name="Light_NS">Lesedi</string>
+
+    */ isiNdebele/*
+    <string name="Water_Flow_ND">Amanzi</string>
+    <string name="Water_pH_ND">pH</string>
+    <string name="Temperature_ND">Ubushushu</string>
+    <string name="Humidity_ND">Ukufuma</string>
+    <string name="EC_Reading_ND">EC</string>
+    <string name="Light_ND">Ukukhanya</string>
+
+
+</resources>
